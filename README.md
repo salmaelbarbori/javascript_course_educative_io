@@ -6,3 +6,5 @@ In this repository I am trying to solve different exercices from a course that i
 var p = document.querySelector ('p');
 p.innerHTML = "Yes You are changing HTML text using JS!";
 ```
+### OOP Concepts
+![alt text](https://drive.google.com/drive/u/0/folders/1csfEK6XzpK-PKrZT915IysyLna88w9TN)
